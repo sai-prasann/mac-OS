@@ -1,16 +1,100 @@
-# React + Vite
+# 🍎 mac-OS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A macOS-inspired web application built using React.js. This project recreates the look and feel of the macOS desktop experience directly in the browser.
 
-Currently, two official plugins are available:
+It features interactive windows, draggable components, a terminal interface, and a GitHub application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🍎 macOS-inspired user interface
+- 🪟 Draggable and resizable windows
+- 💻 Interactive terminal interface
+- 📂 GitHub projects viewer
+- 🎨 Modern UI with SCSS styling
+- ⚛️ Component-based React architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- SCSS
+- React Rnd
+- React Console Emulator
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sai-prasann/mac-OS.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd mac-OS
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 🧩 Components
+
+### MacWindow
+
+A reusable window component built using `react-rnd`.
+
+Provides draggable and resizable windows with macOS-style window controls.
+
+### Console
+
+A terminal-inspired interface built using `react-console-emulator`.
+
+### GitHub
+
+Displays GitHub projects using reusable card components and JSON data.
+
+## 🎯 Project Objective
+
+The goal of this project is to recreate the macOS desktop experience using modern frontend technologies while improving skills in:
+
+- React component architecture
+- State management
+- UI/UX design
+- SCSS styling
+- Interactive web applications
+
+## 🔮 Future Improvements
+
+- Functional window controls
+- Improved terminal commands
+- Multiple application support
+- Dark and light mode
+- Better responsive design
+- Additional macOS-inspired animations
+
+## 👨‍💻 Author
+
+**Sai Prasann**
+
+GitHub: [@sai-prasann](https://github.com/sai-prasann)
+
+## ⭐ Support
+
+If you like this project, consider giving the repository a star!
+
+---
+
+Made with ❤️ using React.js
