@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/seed/task-manager-app/600/400",
+    "title": "Task Manager App",
+    "description": "A responsive task management application where users can add, edit, complete, and delete daily tasks.",
+    "tags": ["HTML", "CSS", "JavaScript", "React"],
+    "repolink": "https://github.com/prasanna/task-manager-app",
+    "demolink": "https://task-manager-app-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/seed/weather-dashboard/600/400",
+    "title": "Weather Dashboard",
+    "description": "A weather app that displays current weather details, temperature, humidity, and city-based search results.",
+    "tags": ["React", "API", "CSS", "JavaScript"],
+    "repolink": "https://github.com/prasanna/weather-dashboard",
+    "demolink": null
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/seed/portfolio-website/600/400",
+    "title": "Personal Portfolio",
+    "description": "A modern developer portfolio website with project cards, smooth UI sections, and responsive design.",
+    "tags": ["React", "SCSS", "JavaScript", "Responsive"],
+    "repolink": "https://github.com/prasanna/personal-portfolio",
+    "demolink": "https://prasanna-portfolio.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/seed/movie-search-app/600/400",
+    "title": "Movie Search App",
+    "description": "A movie search application that allows users to search movies, view ratings, posters, and release details.",
+    "tags": ["React", "API", "CSS", "JavaScript"],
+    "repolink": "https://github.com/prasanna/movie-search-app",
+    "demolink": null
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/seed/ecommerce-ui/600/400",
+    "title": "E-Commerce Product Page",
+    "description": "A clean e-commerce product page UI with product cards, category filters, cart button, and mobile-friendly layout.",
+    "tags": ["HTML", "CSS", "React", "UI Design"],
+    "repolink": "https://github.com/prasanna/ecommerce-product-page",
+    "demolink": null
+  }
+]
