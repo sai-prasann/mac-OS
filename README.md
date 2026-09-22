@@ -1,19 +1,19 @@
-# 🍎 mac-OS
+# mac-OS
 
 A macOS-inspired web application built using React.js. This project recreates the look and feel of the macOS desktop experience directly in the browser.
 
 It features interactive windows, draggable components, a terminal interface, and a GitHub application.
 
-## 🚀 Features
+## Features
 
-- 🍎 macOS-inspired user interface
-- 🪟 Draggable and resizable windows
-- 💻 Interactive terminal interface
-- 📂 GitHub projects viewer
-- 🎨 Modern UI with SCSS styling
-- ⚛️ Component-based React architecture
+- macOS-inspired user interface
+- Draggable and resizable windows
+- Interactive terminal interface
+- GitHub projects viewer
+- Modern UI with SCSS styling
+- Component-based React architecture
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React.js
 - JavaScript (ES6+)
@@ -22,7 +22,7 @@ It features interactive windows, draggable components, a terminal interface, and
 - React Rnd
 - React Console Emulator
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -50,7 +50,7 @@ npm run dev
 
 Open the local URL displayed in your terminal.
 
-## 🧩 Components
+## Components
 
 ### MacWindow
 
@@ -66,7 +66,7 @@ A terminal-inspired interface built using `react-console-emulator`.
 
 Displays GitHub projects using reusable card components and JSON data.
 
-## 🎯 Project Objective
+## Project Objective
 
 The goal of this project is to recreate the macOS desktop experience using modern frontend technologies while improving skills in:
 
@@ -76,7 +76,7 @@ The goal of this project is to recreate the macOS desktop experience using moder
 - SCSS styling
 - Interactive web applications
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Functional window controls
 - Improved terminal commands
@@ -85,16 +85,16 @@ The goal of this project is to recreate the macOS desktop experience using moder
 - Better responsive design
 - Additional macOS-inspired animations
 
-## 👨‍💻 Author
+## Author
 
 **Sai Prasann**
 
 GitHub: [@sai-prasann](https://github.com/sai-prasann)
 
-## ⭐ Support
+## Support
 
-If you like this project, consider giving the repository a star!
+If you like this project, consider giving the repository a star.
 
 ---
 
-Made with ❤️ using React.js
+Built using React.js.
